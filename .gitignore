@@ -1,0 +1,8 @@
+.idea/
+.mvn/
+mvnw
+mvnw.cmd
+restdemo.iml
+src/main/resources/static/
+src/main/resources/templates/
+target/
